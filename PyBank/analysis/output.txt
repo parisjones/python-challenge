@@ -1,0 +1,5 @@
+Total number of months in the dataset: 86
+Net Total of Profits/ Losses1: $22564198
+Changes in profits/losses: $-8214.46511627907
+Greatest increase in profits: $1862002
+Greatest decrease in profits: $-1825558
